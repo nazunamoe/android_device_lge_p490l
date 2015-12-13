@@ -17,7 +17,7 @@
 # inherit from common v4xx
 -include device/lge/v4xx-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := p490l,e8lte_kr
+TARGET_OTA_ASSERT_DEVICE := p490l,e8lte_kr,v490
 
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogen_e8lte_kr_defconfig
